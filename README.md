@@ -15,5 +15,7 @@ Using MySQL, I prepared a dataset focused on company layoffs. In order for the d
 Files:
 
 1.) layoffs_raw_data.csv - Original layoffs dataset (uncleaned)
+
 2.) layoffs_data_cleaning.sql - SQL script containing the complete data cleaning process
+
 3.) layoffs_cleaned_data.csv - Final dataset (cleaned)
