@@ -1,8 +1,7 @@
 Overview:
 
-Using MySQL, I completed a data cleaning project that identified duplicates, standardized data, and handled missing values, preparing a layoffs dataset for analysis.
+Using MySQL, I prepared a dataset focused on company layoffs. In order for the data to be ready for analysis, I performed the following steps: 
 
-- Data Cleaning Process
 - Removed duplicate records using ROW_NUMBER() and PARTITION BY
 - Standardized company names using TRIM()
 - Standardized industry names
@@ -17,4 +16,4 @@ Files:
 
 1.) layoffs_raw_data.csv - Original layoffs dataset (uncleaned)
 2.) layoffs_data_cleaning.sql - SQL script containing the complete data cleaning process
-3.) layoffs_cleaned_data.csv - Final dataset (cleaned
+3.) layoffs_cleaned_data.csv - Final dataset (cleaned)
