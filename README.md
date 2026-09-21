@@ -25,17 +25,17 @@ Then, I explored the dataset further:
 - Compared the number of companies and average percentage laid off across funding stages
 - This project demonstrates the use of the following:
 
-SELECT
-WHERE
-GROUP BY
-ORDER BY
-Aggregate functions, such as, SUM(), MAX(), MIN(), COUNT(), and AVG()
-YEAR() and SUBSTRING() for date-based analysis
-Common Table Expressions (WITH)
-Window functions
-SUM() OVER() for rolling totals
-DENSE_RANK() with PARTITION BY for yearly rankings
-Conditional filtering of NULL values
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- Aggregate functions, such as, SUM(), MAX(), MIN(), COUNT(), and AVG()
+- YEAR() and SUBSTRING() for date-based analysis
+- Common Table Expressions (WITH)
+- Window functions
+- SUM() OVER() for rolling totals
+- DENSE_RANK() with PARTITION BY for yearly rankings
+- Conditional filtering of NULL values
   
 Key Areas Explored:
 
