@@ -38,16 +38,16 @@ Then, I explored the dataset further:
   
 Key Areas Explored:
 
-Layoffs Over Time:
+- Layoffs Over Time:
   - I performed monthly and yearly aggregations to identify changes in the volume of reported layoffs over the period covered by the dataset.
 
-Companies:
+- Companies:
   - I ranked companies based on their total reported layoffs. Additionally, a yearly ranking was also created to reveal the five companies with the highest reported layoffs for each year.
 
-Industries and Countries:
+- Industries and Countries:
   - I aggregated by industry and country to identify where the largest numbers of reported layoffs occurred.
 
-Funding Stage:
+- Funding Stage:
   - I compared funding stage, number of companies, and average percentage laid off to find patterns in layoffs across different stages of company development.
 
 Files:
